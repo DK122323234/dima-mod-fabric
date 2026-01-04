@@ -1,4 +1,4 @@
-package com.example.Item;
+package com.example.item;
 
 import com.example.DimaMod;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
