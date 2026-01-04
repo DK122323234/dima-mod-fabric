@@ -1,7 +1,7 @@
 package com.example;
 
-import com.example.block.RubinBlock;
-import com.example.item.Rubin;
+import com.example.block.RegisterBlock;
+import com.example.item.RegisterItem;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -13,8 +13,8 @@ public class DimaMod implements ModInitializer {
 
     @Override
     public void onInitialize() {
-        Rubin.register();
-        RubinBlock.register();
+        RegisterItem.register();
+        RegisterBlock.register();
         LOGGER.info("Hello Fabric world!");
     }
 }

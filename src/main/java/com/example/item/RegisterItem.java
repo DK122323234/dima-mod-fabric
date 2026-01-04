@@ -8,8 +8,8 @@ import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
 
 
-public class Rubin {
-    public static final Item RUBIN_ITEM = registerItem("rubin",new Item(new FabricItemSettings()));
+public class RegisterItem {
+    public static final Item RUBIN_ITEM = registerItem("ruby",new Item(new FabricItemSettings()));
 
     private static Item registerItem(String name,Item item) {
         return Registry.register(Registries.ITEM, new Identifier(DimaMod.MOD_ID, name), item);
