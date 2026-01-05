@@ -11,7 +11,7 @@ import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
 
 public class RegisterBlock {
-    public static final Block RUBY_BLOCK = registerBlock("ruby_block",new Block(FabricBlockSettings.create().strength(4.0f).luminance(1)));
+    public static final Block RUBY_BLOCK = registerBlock("ruby_block",new Block(FabricBlockSettings.create().strength(2.0f).luminance(1)));
 
        private static Block registerBlock(String name, Block block){
            registerBlockItem(name, block);
