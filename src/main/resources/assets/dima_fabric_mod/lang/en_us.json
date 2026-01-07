@@ -1,5 +1,9 @@
 {
   "item.dima_fabric_mod.ruby": "Ruby",
-  "item.dima_fabric_mod.ruby_sword": "Ruby_sword",
+  "item.dima_fabric_mod.ruby_sword": "Ruby sword",
+  "item.dima_fabric_mod.ruby_pickaxe": "Ruby pickaxe",
+  "item.dima_fabric_mod.ruby_shovel": "Ruby shovel",
+  "item.dima_fabric_mod.ruby_axe": "Ruby axe",
+  "item.dima_fabric_mod.ruby_hoe": "Ruby hoe",
   "block.dima_fabric_mod.ruby_block": "Ruby block"
 }
