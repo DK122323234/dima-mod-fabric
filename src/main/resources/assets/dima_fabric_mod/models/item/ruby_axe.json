@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "dima_fabric_mod:item/ruby_axe"
+  }
+}
+

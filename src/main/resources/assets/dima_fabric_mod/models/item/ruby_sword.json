@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/sword_item",
+  "textures": {
+    "layer0": "dima_fabric_mod:item/ruby_sword"
+  }
+}
