@@ -1,9 +1,16 @@
 {
   "item.dima_fabric_mod.ruby": "Рубин",
+
   "item.dima_fabric_mod.ruby_sword": "Рубиновый меч",
   "item.dima_fabric_mod.ruby_shovel": "Рубиновая лопата",
   "item.dima_fabric_mod.ruby_pickaxe": "Рубиновая кирка",
   "item.dima_fabric_mod.ruby_axe": "Рубиновый топор",
   "item.dima_fabric_mod.ruby_hoe": "Рубиновая мотыга",
+
+  "item.dima_fabric_mod.ruby_helmet": "Рубиновый шлем",
+  "item.dima_fabric_mod:ruby_chestplate": "Рубиновый нагрудник",
+  "item.dima_fabric_mod:ruby_leggings": "Рубиновые поножи",
+  "item.dima_fabric_mod:ruby_boots": "Рубиновые ботинки",
+
   "block.dima_fabric_mod.ruby_block": "Блок рубина"
 }

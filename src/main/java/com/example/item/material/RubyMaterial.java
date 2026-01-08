@@ -1,4 +1,4 @@
-package com.example.item.custom;
+package com.example.item.material;
 
 import net.minecraft.item.ToolMaterial;
 import net.minecraft.recipe.Ingredient;
@@ -26,7 +26,7 @@ public class RubyMaterial implements ToolMaterial {
 
     @Override
     public int getEnchantability() {
-        return 0;
+        return 8;
     }
 
     @Override

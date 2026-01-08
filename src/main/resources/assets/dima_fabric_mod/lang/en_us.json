@@ -5,5 +5,13 @@
   "item.dima_fabric_mod.ruby_shovel": "Ruby shovel",
   "item.dima_fabric_mod.ruby_axe": "Ruby axe",
   "item.dima_fabric_mod.ruby_hoe": "Ruby hoe",
+
+  "item.dima_fabric_mod.ruby_helmet": "Ruby helmet",
+  "item.dima_fabric_mod:ruby_chestplate": "Ruby chestplate",
+  "item.dima_fabric_mod:ruby_leggings": "Ruby leggings",
+  "item.dima_fabric_mod:ruby_boots": "Ruby boots",
+
   "block.dima_fabric_mod.ruby_block": "Ruby block"
+
+
 }

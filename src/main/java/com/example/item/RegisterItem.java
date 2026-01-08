@@ -20,7 +20,10 @@ public class RegisterItem {
     public static final Item RUBY_AXE = registerItem("ruby_axe", new AxeItem(new RubyMaterial(), 9  , -3.2F,new Item.Settings().maxDamage(1000)));
     public static final Item RUBY_HOE = registerItem("ruby_hoe", new HoeItem(new RubyMaterial(), 0,-2.8F, new Item.Settings().maxDamage(1000)));
 
-  //  public static final Item RUBY_HELMET = registerItem("ruby_helmet", new ArmorItem(new RubyArmorMaterial(), ArmorItem.Type.HELMET, new Item.Settings()));
+    public static final Item RUBY_HELMET = registerItem("ruby_helmet", new ArmorItem(new RubyArmorMaterial(), ArmorItem.Type.HELMET, new Item.Settings()));
+    public static final Item RUBY_CHESTPLATE = registerItem("ruby_chestplate", new ArmorItem(new RubyArmorMaterial(), ArmorItem.Type.CHESTPLATE, new Item.Settings()));
+    public static final Item RUBY_LEGGINGS = registerItem("ruby_leggings", new ArmorItem(new RubyArmorMaterial(), ArmorItem.Type.LEGGINGS, new Item.Settings()));
+    public static final Item RUBY_BOOTS = registerItem("ruby_boots", new ArmorItem(new RubyArmorMaterial(), ArmorItem.Type.BOOTS, new Item.Settings()));
 
     private static Item registerItem(String name,Item item) {
         return Registry.register(Registries.ITEM, new Identifier(DimaMod.MOD_ID, name), item);
