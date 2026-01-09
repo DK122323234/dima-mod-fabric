@@ -3,6 +3,7 @@ package com.example;
 import com.example.block.RegisterBlock;
 import com.example.item.RegisterItem;
 import com.example.item.RegistersItemGroups;
+import com.example.worldgen.ModFeatures;
 import net.fabricmc.api.ModInitializer;
 
 import net.fabricmc.fabric.api.biome.v1.BiomeModifications;
@@ -25,6 +26,7 @@ public class DimaMod implements ModInitializer {
         RegisterItem.register();
         RegisterBlock.register();
         RegistersItemGroups.registersItemGroups();
+        ModFeatures.register();
         LOGGER.info("Hello Fabric world!");
 
 
