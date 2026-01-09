@@ -7,11 +7,13 @@
   "item.dima_fabric_mod.ruby_hoe": "Ruby hoe",
 
   "item.dima_fabric_mod.ruby_helmet": "Ruby helmet",
-  "item.dima_fabric_mod:ruby_chestplate": "Ruby chestplate",
-  "item.dima_fabric_mod:ruby_leggings": "Ruby leggings",
-  "item.dima_fabric_mod:ruby_boots": "Ruby boots",
+  "item.dima_fabric_mod.ruby_chestplate": "Ruby chestplate",
+  "item.dima_fabric_mod.ruby_leggings": "Ruby leggings",
+  "item.dima_fabric_mod.ruby_boots": "Ruby boots",
 
-  "block.dima_fabric_mod.ruby_block": "Ruby block"
+  "itemgroup.ruby": "Ruby mod",
+  "block.dima_fabric_mod.ruby_block": "Ruby block",
+  "block.dima_fabric_mod.ruby_ore": "Ruby ore"
 
 
 }

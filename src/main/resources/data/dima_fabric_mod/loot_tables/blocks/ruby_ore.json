@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 3.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "dima_fabric_mod:ruby"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "dima_fabric_mod:block/ruby_ore"
+}

@@ -12,6 +12,7 @@ import net.minecraft.util.Identifier;
 
 public class RegisterBlock {
     public static final Block RUBY_BLOCK = registerBlock("ruby_block",new Block(FabricBlockSettings.create().strength(2.1F, 2.8F).luminance(1).requiresTool()));
+    public static final Block RUBY_ORE = registerBlock("ruby_ore", new Block(FabricBlockSettings.create().strength(0.3F, 2.8F).luminance(1).requiresTool()));
 
        private static Block registerBlock(String name, Block block){
            registerBlockItem(name, block);

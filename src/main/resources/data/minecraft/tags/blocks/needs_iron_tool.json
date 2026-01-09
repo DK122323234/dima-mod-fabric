@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "dima_fabric_mod:ruby_block"
+    "dima_fabric_mod:ruby_block",
+    "dima_fabric_mod:ruby_ore"
   ]
 }

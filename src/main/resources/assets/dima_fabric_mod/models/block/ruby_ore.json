@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "dima_fabric_mod:block/ruby_ore"
+  }
+}
